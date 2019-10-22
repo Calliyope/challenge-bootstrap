@@ -10,8 +10,13 @@ Made for educational purposes
 ---
 
 # Preview
- 
-<img src="images/preview.png" alt="Grid, Grids Away Preview" width="400">
+
+The image to recreate:
+
+
+
+My attempt:
+<img src="images/preview.png" alt="Grid away, Grid ahoy Preview" width="400">
 
 ---
 
