@@ -11,11 +11,6 @@ Made for educational purposes
 
 # Preview
 
-The image to recreate:
-
-
-
-My attempt:
 <img src="images/preview.png" alt="Grid away, Grid ahoy Preview" width="400">
 
 ---
