@@ -1,4 +1,4 @@
-# challenge-bootstrap
+# Bootstrap Challenge
 Learning about CSS frameworks - Bootstrap
 
 ---
@@ -11,7 +11,7 @@ Made for educational purposes
 
 # Preview
  
-<img src="images/Preview.png" alt="Grid, Grids Away Preview" width="400">
+<img src="images/preview.png" alt="Grid, Grids Away Preview" width="400">
 
 ---
 
